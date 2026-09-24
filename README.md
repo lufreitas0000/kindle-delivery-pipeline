@@ -1,3 +1,7 @@
+> [!WARNING]
+> **This project has been migrated and archived.**
+> All development has moved to the unified monorepo: [lufreitas0000/nexus-engine](https://github.com/lufreitas0000/nexus-engine)
+
 # Kindle Artifact Pipeline & Spliter Integration
 
 ## Overview
